@@ -1,4 +1,4 @@
-# Me 
+# My  
 
 <img src='https://img.shields.io/badge/-python-000000?logo=python&logoColor=fff'> <img src="https://img.shields.io/badge/-Aseprite-000000?logo=Aseprite&logoColor=fff"> 
 
