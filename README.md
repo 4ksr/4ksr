@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ksr</h1>
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ksr.png" alt="TryHackMe">
-
 # My
 <a href="https://open.spotify.com/user/31d72u7kl45enzfmzzjsdygltowq">
 <img alt="spotify" src="https://img.shields.io/badge/-Spotify-000000?logo=Spotify&logoColor=fff"/> 
@@ -19,3 +17,5 @@
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ksr&&show_icons=true&title_color=f7f8f3&icon_color=78bcc4&text_color=f7444e&bg_color=374258">
 
+  
+   <img src="https://tryhackme-badges.s3.amazonaws.com/ksr.png" alt="TryHackMe">
