@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ksr</h1>
 
- <script src="https://tryhackme.com/badge/889384"></script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/ksr.png" alt="TryHackMe">
 
 # My
 <a href="https://open.spotify.com/user/31d72u7kl45enzfmzzjsdygltowq">
