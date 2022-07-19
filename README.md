@@ -18,4 +18,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ksr&&show_icons=true&title_color=000000&icon_color000000&text_color=ffffff&bg_color=000000">
 
   
- <img src="https://tryhackme-badges.s3.amazonaws.com/ksr.png" alt="TryHackMe">
+ //<img src="https://tryhackme-badges.s3.amazonaws.com/ksr.png" alt="TryHackMe">
