@@ -14,7 +14,7 @@
 
 # Status 
 <img src="https://github-readme-stats.vercel.app/api?username=4ksr&&show_icons=true&title_color=000000&icon_color=0000004&text_color=ffffff&bg_color=000000">
-<br><br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ksr&&show_icons=true&title_color=000000&icon_color000000&text_color=ffffff&bg_color=000000">
 
   
