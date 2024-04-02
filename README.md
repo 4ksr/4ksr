@@ -23,5 +23,5 @@
 </p>
 ## GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula" alt="Ashutosh's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4ksr&theme=dracula" alt="GitHub Activity Graph"/>
 </p>
