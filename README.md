@@ -2,7 +2,7 @@
   <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/DlL5P33u4mUi0azSzi/giphy.gif" height="175px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/909730958289301525.gif?size=96&quality=lossless" width="30px">, I'm ksr</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="24px">, I'm ksr</h1>
 
 ## Connect with Me
 <p align="center">
