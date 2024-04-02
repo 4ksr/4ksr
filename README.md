@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+  <a href="#"><img width="100%" height="auto" src="https://giphy.com/embed/DlL5P33u4mUi0azSzi" height="175px"/></a>
 </p>
 
 <h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/909730958289301525.gif?size=96&quality=lossless" width="30px">, I'm ksr</h1>
