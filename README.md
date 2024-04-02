@@ -21,6 +21,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ksr&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=FFFFFF&bg_color=000000" alt="Top Languages"/>
 </p>
+
 ## GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=4ksr&theme=high-contrast" alt="GitHub Activity Graph"/>
